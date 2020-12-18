@@ -19,6 +19,7 @@
 import { ref } from 'vue'
 export default {
   setup(){
+  //  this.$router.push("/")
     let title=ref("");//title
     let body=ref("");//body
     let tag=ref("");//html
