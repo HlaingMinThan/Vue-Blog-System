@@ -5,7 +5,7 @@
         </router-link>
         <p>{{cutPostBody}}</p>
         <div v-for="tag in post.tags" :key="tag" class="pill">
-          {{tag}}
+          <router-link :to="{name:'Tag',params:{tag}}">{{tag}}</router-link>
         </div>
    </div>
 </template>

@@ -1,21 +1,6 @@
 {
   "posts": [
     {
-      "title": "post title 1",
-      "id": 1,
-      "body": "lorem ipsum"
-    },
-    {
-      "title": "post title 2",
-      "id": 2,
-      "body": "lorem ipsum"
-    },
-    {
-      "title": "post title 3",
-      "id": 3,
-      "body": "lorem ipsum"
-    },
-    {
       "title": "test",
       "body": "test",
       "tags": [
@@ -25,13 +10,20 @@
       "id": 4
     },
     {
-      "title": "asdf",
-      "body": "asdfasd",
+      "title": "vuejs",
+      "body": "vuejs",
       "tags": [
-        "htm",
-        "php"
+        "vuejs"
       ],
       "id": 5
+    },
+    {
+      "title": "laravel",
+      "body": "laravel",
+      "tags": [
+        "laravel"
+      ],
+      "id": 6
     }
   ]
 }
