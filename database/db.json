@@ -32,6 +32,14 @@
         "news"
       ],
       "id": 7
+    },
+    {
+      "title": "ANGULAR",
+      "body": "angular",
+      "tags": [
+        "angular"
+      ],
+      "id": 8
     }
   ]
 }
